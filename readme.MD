@@ -9,6 +9,7 @@ installed in the local VCV Rack 2 instance.
 You must install the Python packages
 * pyqt5 and
 * zstandard
+
 into the virtual environment for VCVPatchAnalyzer.py. 
 
 This Python code was created by artificial
